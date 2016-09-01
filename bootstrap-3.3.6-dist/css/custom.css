@@ -1,0 +1,143 @@
+blockquote.left {
+    float: left;
+    margin: 0 1em 1em 0;
+    background: black;
+    padding: 0.5em;
+    font-size: 1.5em;
+    font-family: "noe-display-bold", Georgia, serif;
+        color: white;
+    width: 35%;
+    position: relative;
+}
+
+.content {
+    margin: 0 auto;
+    position: relative;
+    overflow: visible;
+    padding: 1em 20%;
+  }
+.page {padding: 1em;
+}
+
+    .container {
+
+      }
+
+.container {
+  background: white;
+}
+body {
+  background: #34DDDD;
+}
+
+body.orange {
+  background: #FFA500;
+}
+.img_container, .color_conatiner {
+    height: 400px;
+    position: relative;
+    display: flex;
+    background-position: center !important;
+}
+
+
+.mbmf {
+    background: url(../img/mbmf.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    overflow: hidden;
+}
+
+.chelsea {
+    background: url(../img/chlsee.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    overflow: hidden;
+}
+.netty {
+    background: url(../img/nflx.png) no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    overflow: hidden;
+}
+.circle {
+  color:  #34DDDD;
+}
+
+
+.hustle {
+    background: url(../img/hstl.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    overflow: hidden;
+}
+
+header {
+  width: 50%;
+  text-align: center;
+  font-family: "noe-display-bold", Georgia, serif;
+  font-weight: bold;
+  margin: auto;
+    color: #fff;
+    text-shadow: 0 0 9px #000000;
+}
+
+.jumbotron {
+text-align: center;
+margin: auto;
+  color: #black;
+font-family: "noe-display-bold", Georgia, serif;
+font-weight: bold;
+}
+
+.carousel-caption a {
+font-size: 140%;
+font-family: "noe-display-bold", Georgia, serif;
+font-weight: bold;
+color: white;
+}
+
+h4 {
+  font-family: "noe-display-bold", Georgia, serif;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 15px
+}
+h2 {
+  font-family: "noe-display-bold", Georgia, serif;
+}
+
+h3 {
+  font-family: "noe-display-bold", Georgia, serif;
+}
+.byline {
+  font-size: 12px
+}
+.share {
+  font-size: 50px
+}
+.share2 {
+  font-size: 30px
+}
+.blog-masthead {
+  font-family: "noe-display-bold", Georgia, serif;
+  color: #black;
+}
+
+
+.shaf {
+  float: left;
+  margin: 0 1em 1em 0;
+  position: relative;
+}
+.banner {
+      padding: 1em;
+}
+.background {
+  color: #FFA500;
+}
+
+}
+}
